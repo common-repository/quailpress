@@ -1,0 +1,13 @@
+
+v0.1.3
+  added a share button without text (per David Stickel)
+  linked author name to tekrat.com (per David Stickel)
+  removed white border from share image (per David Stickel)
+  corrected version display under options tab
+  added html source display option
+
+v0.1.2
+  fixed bug keeping options tab from being displayed (thank you Andrew, and David Stickel)
+
+v0.1.1
+  initial release!

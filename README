@@ -1,0 +1,23 @@
+
+QuailPress 
+by Brian Shire <shire@tekrat.com>
+
+QuailPress is a WordPress plugin for Facebook.  It currently allows you to place Share buttons on your posts, so users can easily share interesting posts with their social networks on Facebook.  
+
+------------
+Installation
+------------
+
+Extract the archive using one of the following methods depending on the format you downloaded:
+
+tar -zxf quailpress-vx.x.x.tar.gz
+tar -jxf quailpress-vx.x.x.tar.bz2
+unzip quailpress-vx.x.x.zip
+
+This will create "quailpress-vx.x.x" with all the necessary files.  You can then proceed to the "Plugins" section of your WordPress admin screen and activate the plugin.  This will enable the "QuailPress" section under the "Options" menu where you can configure QuailPress as desired.  
+
+To add buttons you'll need to modify you're themes code by adding "<?php quailpress_share(); ?>" wherever you would like a Facebook Share button to appear.
+
+
+
+
